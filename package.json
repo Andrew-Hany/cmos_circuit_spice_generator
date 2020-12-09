@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Andrew-Hany.github.io/cmos_circuit_spice_generator",
-  "name": "cmos_circuit_spice_generator",
+  "homepage": "https://Andrew-Hany.github.io/cmos_circuit_spice_generator/",
+  "name": "cmos_circuit_spice_generato",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
