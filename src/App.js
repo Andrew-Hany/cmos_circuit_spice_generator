@@ -56,9 +56,9 @@ z&s;
             alert("invalid input!!");
           }
           else
-            if (res[k][j] == "(" || res[k][j] == ")") {
+            if (res[k][j] == "(" || res[k][j] == ")" || res[k][j] == "'" || res[k][j] == "~") {
               exit = 1;
-              alert("invalid character!!");
+              alert("invalid character" + res[k][j] + "!!");
             }
           if (
             res[k][j] != "|" &&
