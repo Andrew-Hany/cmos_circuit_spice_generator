@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cmos_circuit_spice_generator/static/css/main.f1075114.chunk.css",
-    "main.js": "/cmos_circuit_spice_generator/static/js/main.60de4d5f.chunk.js",
-    "main.js.map": "/cmos_circuit_spice_generator/static/js/main.60de4d5f.chunk.js.map",
+    "main.js": "/cmos_circuit_spice_generator/static/js/main.71664d86.chunk.js",
+    "main.js.map": "/cmos_circuit_spice_generator/static/js/main.71664d86.chunk.js.map",
     "runtime-main.js": "/cmos_circuit_spice_generator/static/js/runtime-main.603e7a10.js",
     "runtime-main.js.map": "/cmos_circuit_spice_generator/static/js/runtime-main.603e7a10.js.map",
     "static/js/2.7efa3ef0.chunk.js": "/cmos_circuit_spice_generator/static/js/2.7efa3ef0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.603e7a10.js",
     "static/js/2.7efa3ef0.chunk.js",
     "static/css/main.f1075114.chunk.css",
-    "static/js/main.60de4d5f.chunk.js"
+    "static/js/main.71664d86.chunk.js"
   ]
 }
