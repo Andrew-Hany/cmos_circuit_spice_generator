@@ -55,10 +55,11 @@ z&s;
             exit = 1;
             alert("invalid input!!");
           }
-          if (variable[i].output == "(" || variable[i].output == ")") {
-            exit = 1;
-            alert("invalid character!!");
-          }
+          else
+            if (res[k][j] == "(" || res[k][j] == ")") {
+              exit = 1;
+              alert("invalid character!!");
+            }
           if (
             res[k][j] != "|" &&
             res[k][j] != "&" &&
